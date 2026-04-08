@@ -20,9 +20,18 @@ I am a passionate Computer Science student and developer interested in programmi
 🔥 Current Project
 ✨ Air Gesture Detection System
 
+📈 Learning Goals
+Advanced Machine Learning
+Computer Vision
+AI-based Applications
+Real-world Project Development
+
 Developing an intelligent system using Computer Vision + Machine Learning to control devices using hand gestures.
 
 📊 GitHub Statistics
 🐍 Contribution Snake
+
+🌐 Connect With Me
+GitHub: https://github.com/amitkumar15x
 
 ⭐ Always Learning • Always Building • Always Improving
