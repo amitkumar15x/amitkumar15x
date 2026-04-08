@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Amit Kumar
 
-<!--
-**amitkumar15x/amitkumar15x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I am a passionate Computer Science student and developer interested in programming, Artificial Intelligence, and Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Programming enthusiast
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🌱 Currently learning **Machine Learning**
+* 👨‍💻 Working on a **Group Project: Air Gesture Detection System**
+* 📚 Always exploring new technologies and improving problem-solving skills
+
+🛠️ Tech Stack
+💻 Programming Languages
+🌐 Web Development
+🤖 AI / Database / Tools
+🔥 Current Project
+✨ Air Gesture Detection System
+
+Developing an intelligent system using Computer Vision + Machine Learning to control devices using hand gestures.
+
+📊 GitHub Statistics
+🐍 Contribution Snake
+
+⭐ Always Learning • Always Building • Always Improving
