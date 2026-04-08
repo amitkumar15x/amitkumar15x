@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amit Kumar
 
 Welcome to my GitHub profile!
-I am a passionate Computer Science student and developer interested in programming, Artificial Intelligence, and Machine Learning.
+I am a passionate Computer Science student and developer interested in Programming, Artificial Intelligence, and Machine Learning.
 
 ---
 
@@ -13,25 +13,58 @@ I am a passionate Computer Science student and developer interested in programmi
 * 👨‍💻 Working on a **Group Project: Air Gesture Detection System**
 * 📚 Always exploring new technologies and improving problem-solving skills
 
-🛠️ Tech Stack
-💻 Programming Languages
-🌐 Web Development
-🤖 AI / Database / Tools
-🔥 Current Project
-✨ Air Gesture Detection System
+---
 
-📈 Learning Goals
-Advanced Machine Learning
-Computer Vision
-AI-based Applications
-Real-world Project Development
+## 🛠️ Tech Stack
 
-Developing an intelligent system using Computer Vision + Machine Learning to control devices using hand gestures.
+### 💻 Programming Languages
 
-📊 GitHub Statistics
-🐍 Contribution Snake
+* Python
+* Java
+* C
 
-🌐 Connect With Me
-GitHub: https://github.com/amitkumar15x
+### 🌐 Web Development
 
-⭐ Always Learning • Always Building • Always Improving
+* HTML
+* CSS
+* JavaScript
+
+### 🤖 AI / Database / Tools
+
+* Artificial Intelligence
+* Machine Learning
+* SQL
+
+---
+
+## 🔥 Current Project
+
+### ✨ Air Gesture Detection System
+
+Developing an intelligent system using **Computer Vision + Machine Learning** to control devices using hand gestures.
+
+---
+
+## 📈 Learning Goals
+
+* Advanced Machine Learning
+* Computer Vision
+* AI-based Applications
+* Real-world Project Development
+
+---
+
+## 📊 GitHub Statistics
+
+* 📈 Contribution Activity
+* 🐍 Contribution Snake
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/amitkumar15x
+
+---
+
+⭐ **Always Learning • Always Building • Always Improving**
