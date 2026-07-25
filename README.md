@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Amit%20Kumar&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1F6FEB&amp;height=220&amp;section=header&amp;text=Amit%20Kumar&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Computer%20Science%20Student%20%7C%20AI%20and%20ML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=D93D04&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Passionate+about+Programming;Exploring+Artificial+Intelligence+%26+ML;Building+Air+Gesture+Detection+System;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Passionate+about+Programming;Exploring+Artificial+Intelligence+and+ML;Building+Air+Gesture+Detection+System;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-D93D04?style=for-the-badge&logo=handshake&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1F6FEB?style=for-the-badge&logo=handshake&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=amitkumar15x&amp;color=D93D04&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/amitkumar15x?label=FOLLOWERS&amp;style=for-the-badge&amp;color=D93D04&amp;logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=amitkumar15x&amp;color=1F6FEB&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/amitkumar15x?label=FOLLOWERS&amp;style=for-the-badge&amp;color=1F6FEB&amp;logo=github" alt="Followers"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ```typescript
 const amitKumar = {
-  title: "Computer Science Student & Developer",
+  title: "Computer Science Student and Developer",
   focus: ["Programming", "Artificial Intelligence", "Machine Learning"],
   stack: {
     languages: ["Python", "Java", "C"],
@@ -30,8 +30,8 @@ const amitKumar = {
   },
   launchedProjects: ["Breast-Cancer-Diagnostic-ML"],
   currentlyBuilding: "Air Gesture Detection System (Group Project)",
-  certifications: [], // none provided yet
-  status: "🌱 Currently learning Machine Learning",
+  certifications: [],
+  status: "Currently learning Machine Learning",
   openTo: ["Full-time opportunities", "Collaborations", "AI/ML projects"]
 };
 ```
@@ -45,7 +45,7 @@ const amitKumar = {
 Machine Learning-based Breast Cancer Diagnostic System using Logistic Regression, Flask, and React.
 
 <a href="https://github.com/amitkumar15x/Breast-Cancer-Diagnostic-ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumar15x&amp;repo=Breast-Cancer-Diagnostic-ML&amp;theme=nord&amp;border_color=D93D04&amp;title_color=D93D04&amp;icon_color=D93D04" alt="Breast Cancer Diagnostic ML"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumar15x&amp;repo=Breast-Cancer-Diagnostic-ML&amp;theme=tokyonight&amp;border_color=1F6FEB&amp;title_color=1F6FEB&amp;icon_color=1F6FEB" alt="Breast Cancer Diagnostic ML"/>
 </a>
 
 | Layer | Technology |
@@ -58,9 +58,9 @@ Machine Learning-based Breast Cancer Diagnostic System using Logistic Regression
 
 <br/>
 
-### 🖐️ Air Gesture Detection System *(Group Project)*
+### 🖐️ Air Gesture Detection System (Group Project)
 
-Developing an intelligent system using Computer Vision + Machine Learning to control devices using hand gestures.
+Developing an intelligent system using Computer Vision and Machine Learning to control devices using hand gestures.
 
 | Layer | Technology |
 |---|---|
@@ -91,23 +91,23 @@ Developing an intelligent system using Computer Vision + Machine Learning to con
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitkumar15x&amp;show_icons=true&amp;theme=nord&amp;border_color=D93D04&amp;title_color=D93D04&amp;icon_color=D93D04&amp;text_color=c9cbd1" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar15x&amp;layout=compact&amp;theme=nord&amp;border_color=D93D04&amp;title_color=D93D04&amp;text_color=c9cbd1" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amitkumar15x&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=1F6FEB&amp;title_color=1F6FEB&amp;icon_color=1F6FEB&amp;text_color=c9cbd1" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar15x&amp;layout=compact&amp;theme=tokyonight&amp;border_color=1F6FEB&amp;title_color=1F6FEB&amp;text_color=c9cbd1" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=amitkumar15x&amp;theme=nord&amp;border=D93D04&amp;ring=D93D04&amp;fire=D93D04&amp;currStreakLabel=D93D04" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=amitkumar15x&amp;theme=tokyonight&amp;border=1F6FEB&amp;ring=1F6FEB&amp;fire=1F6FEB&amp;currStreakLabel=1F6FEB" alt="GitHub Streak"/>
 
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amitkumar15x&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amitkumar15x&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar15x&amp;theme=react-dark&amp;color=D93D04&amp;line=D93D04&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar15x&amp;theme=react-dark&amp;color=1F6FEB&amp;line=1F6FEB&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 </div>
 
 <br/>
@@ -116,10 +116,10 @@ Developing an intelligent system using Computer Vision + Machine Learning to con
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D93D04?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar15x)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-D93D04?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/amitchauhan15x)
-[![Email](https://img.shields.io/badge/Email-D93D04?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar155x@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-D93D04?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumar15x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar15x)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-1F6FEB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/amitchauhan15x)
+[![Email](https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar155x@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumar15x)
 
 </div>
 
@@ -129,6 +129,6 @@ Developing an intelligent system using Computer Vision + Machine Learning to con
 
 ⭐ **Always Learning • Always Building • Always Improving** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1F6FEB&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
