@@ -1,126 +1,151 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="House Kumar banner" width="100%">
+<!-- Wave Banner (Top) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8B0000&amp;height=220&amp;section=header&amp;text=Amit%20Kumar&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Computer%20Science%20Student%20%7C%20AI%20and%20ML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-# ⚔️ AMIT KUMAR ⚔️
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=8B0000&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Forging+Realms+with+Code;Exploring+Artificial+Intelligence+and+ML;Building+Air+Gesture+Detection+System;Always+Learning+%E2%80%A2+Always+Improving" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-8B0000?style=for-the-badge&logo=handshake&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=amitkumar15x&amp;color=8B0000&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/amitkumar15x?label=FOLLOWERS&amp;style=for-the-badge&amp;color=8B0000&amp;logo=github" alt="Followers"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Avatar -->
+<img src="assets/avatar.png" alt="Amit Kumar Avatar" width="220" style="border-radius:50%; border:4px solid #8B0000; box-shadow:0 0 25px #000000;">
+
+# ⚔️ Amit Kumar ⚔️
 ### Builder of Realms · Guardian of Code
 
 *"Code is my sword, creativity my shield."*
 
-<img src="assets/sigil.png" alt="House Kumar sigil" width="90">
+<!-- Sigil -->
+<img src="assets/sigil.png" alt="House Kumar Sigil" width="150">
 
 </div>
 
-<img src="assets/divider.png" alt="" width="100%">
+---
 
-## 🏰 About Me
+## 👑 Who I Am
 
-I am **Amit Kumar** — a developer sworn to the disciplines of **Python**, **JavaScript**, **React**, and **Machine Learning**, with a growing eye for **UI/UX design**. Where most build with brick and mortar, I build with logic and code — systems raised with the same discipline the Night's Watch holds the Wall.
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-My flagship project is **[Portfolio Realm](https://portfolio-realm.vercel.app)** — a Game of Thrones–inspired developer portfolio where dragons flank every section, a scroll-driven Iron Throne hero pins and zooms as you descend, and each project sits behind a parchment scroll. It's built entirely in HTML, CSS, and GSAP, no framework required.
-
-- 🐉 Dragons and medieval fantasy visuals throughout
-- 📜 Scroll-triggered animations (unfurling cards, filling skill bars, a pinned zooming portrait)
-- 🏯 A living castle backdrop instead of a plain hero banner
-- ⚔️ Every section themed as a chapter of House Kumar's story
-
-</td>
-<td width="35%" valign="top" align="center">
-
-<img src="assets/avatar.png" alt="Amit Kumar" width="220">
-
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.png" alt="" width="100%">
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-**Interests**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=htmx&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF3366?style=for-the-badge&logo=figma&logoColor=white)
-
-<img src="assets/divider.png" alt="" width="100%">
-
-## 🐉 Portfolio Realm
-
-<div align="center">
-
-[![Live Site](https://img.shields.io/badge/🔥_Enter_the_Realm-8B0000?style=for-the-badge)](https://portfolio-realm.vercel.app)
-[![Repository](https://img.shields.io/badge/View_Repository-a67c52?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumar15x/portfolio-realm)
-
-</div>
-
-## ⚙️ Run the Realm Locally
-
-```bash
-git clone https://github.com/amitkumar15x/portfolio-realm.git
-cd portfolio-realm
+```typescript
+const amitKumar = {
+  title: "Computer Science Student and Realm Builder",
+  focus: ["Programming", "Artificial Intelligence", "Machine Learning"],
+  stack: {
+    languages: ["Python", "Java", "C"],
+    web: ["HTML", "CSS", "JavaScript"],
+    aiAndTools: ["Artificial Intelligence", "Machine Learning", "SQL"]
+  },
+  launchedProjects: ["Breast-Cancer-Diagnostic-ML"],
+  currentlyForging: "Air Gesture Detection System (Guild Project)",
+  certifications: [],
+  status: "Apprentice in Machine Learning",
+  openTo: ["Full-time quests", "Collaborations", "AI/ML campaigns"]
+};
 ```
 
-**Windows**
-```bash
-start index_3.html
-```
+<br/>
 
-**macOS**
-```bash
-open index_3.html
-```
+## 🐉 Featured Realms
 
-Or open the project folder in **VS Code**, install the **Live Server** extension, right-click `index_3.html`, and select **Open with Live Server**.
+### ✨ Breast Cancer Diagnostic ML
 
-<img src="assets/divider.png" alt="" width="100%">
+A battle against disease using Logistic Regression, Flask, and React.
+
+<a href="https://github.com/amitkumar15x/Breast-Cancer-Diagnostic-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumar15x&amp;repo=Breast-Cancer-Diagnostic-ML&amp;theme=tokyonight&amp;border_color=8B0000&amp;title_color=8B0000&amp;icon_color=8B0000" alt="Breast Cancer Diagnostic ML"/>
+</a>
+
+| Layer | Weapon |
+|---|---|
+| ML Model | Logistic Regression |
+| Backend | Flask |
+| Frontend | React |
+
+🔗 [Code](https://github.com/amitkumar15x/Breast-Cancer-Diagnostic-ML)
+
+<br/>
+
+### 🖐️ Air Gesture Detection System
+
+A guild project harnessing Computer Vision and ML to command devices with hand gestures.
+
+| Layer | Weapon |
+|---|---|
+| Vision | Computer Vision |
+| ML | Machine Learning |
+
+> Note: This is a group project hosted on a teammate's GitHub account, so no pin card is shown here.
+
+<br/>
+
+## ⚔️ Tech Arsenal
+
+**Languages of the Realm**
+
+![Skills](https://skillicons.dev/icons?i=python,java,c)
+
+**Forging Web Realms**
+
+![Skills](https://skillicons.dev/icons?i=html,css,js)
+
+**Arcane AI / Databases / Tools**
+
+![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,mysql)
+
+<br/>
 
 ## 📊 Chronicles of Code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitkumar15x&show_icons=true&hide_title=true&bg_color=0d0d0d&title_color=a67c52&icon_color=ff4500&text_color=e8dcc0&border_color=a67c52" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar15x&layout=compact&bg_color=0d0d0d&title_color=a67c52&text_color=e8dcc0&border_color=a67c52" alt="Top Languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=amitkumar15x&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=8B0000&amp;title_color=8B0000&amp;icon_color=8B0000&amp;text_color=c9cbd1" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar15x&amp;layout=compact&amp;theme=tokyonight&amp;border_color=8B0000&amp;title_color=8B0000&amp;text_color=c9cbd1" alt="Top Languages" height="165"/>
+<img src="https://streak-stats.demolab.com?user=amitkumar15x&amp;theme=tokyonight&amp;border=8B0000&amp;ring=8B0000&amp;fire=8B0000&amp;currStreakLabel=8B0000" alt="GitHub Streak"/>
 
 </div>
 
-<img src="assets/divider.png" alt="" width="100%">
+## 🏆 Trophies of the Realm
 
-## 🪶 Connect With Me
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amitkumar15x&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Saga
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar15x&amp;theme=react-dark&amp;color=8B0000&amp;line=8B0000&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+## 🌐 Connect With Amit Kumar
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar15x)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-8B0000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/amitchauhan15x)
 [![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar155x@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumar15x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a67c52?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitkumar15x)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amitchauhan15x)
+[![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumar15x)
 
 </div>
 
-<br>
-
-<img src="assets/footer_banner.jpg" alt="The Iron Throne" width="100%">
+<br/>
 
 <div align="center">
 
-### ⭐ Always Learning • Always Building • Always Improving ⭐
+⭐ **Always Learning • Always Forging • Always Improving** ⭐
 
-*"When you build in the code, you win, or you die trying."*
+<!-- Wave Banner (Bottom) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8B0000&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
